@@ -1,3 +1,2 @@
 mountpoints:
-  /: 
-    url: http://localhost:4508
+  /: https://drive.google.com/drive/folders/1DdBKGRcklUKpj1-gJmy8O3EXstik5oVE
